@@ -1,0 +1,6 @@
+Age,Gender,Blood Pressure,Cholestrol,Label
+20,Male,High,High,Positive
+45,Female,Normal,High,Positive
+35,Male,Low,Low,Negative
+50,Female,High,Normal,Positive
+30,Male,Normal,Low,Negative
